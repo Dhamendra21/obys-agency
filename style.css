@@ -5,6 +5,22 @@
   font-family: "plain light";
   color: white;
 }
+@font-face {
+  font-family: "plain light";
+  src: url(./plain-light-webfont.ttf);
+}
+@font-face {
+  font-family: "plain light";
+  src: url(./plain-regular-webfont.ttf);
+}
+@font-face {
+  font-family: "silk serif";
+  src: url(./silkserif-lightitalic-webfont.ttf);
+}
+@font-face {
+  font-family: "silk serif";
+  src: url(./silkserif-regularitalic-webfont.ttf);
+}
 html, body {
   height: 100%;
   width: 100%;
